@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/virtual-dressing-room/static/css/main.7e7fa59f.css",
+    "main.js": "/virtual-dressing-room/static/js/main.e2319d2c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/virtual-dressing-room/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bodynew.png": "/virtual-dressing-room/static/media/bodynew.8cc915c6d39780c9e65f.png",
+    "index.html": "/virtual-dressing-room/index.html",
+    "main.7e7fa59f.css.map": "/virtual-dressing-room/static/css/main.7e7fa59f.css.map",
+    "main.e2319d2c.js.map": "/virtual-dressing-room/static/js/main.e2319d2c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/virtual-dressing-room/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7fa59f.css",
+    "static/js/main.e2319d2c.js"
+  ]
+}
